@@ -11,5 +11,6 @@ def main():
     print(f"node3: {node3}")
     print(f"node1 == node2: {node1 == node2}")
     print(f"node1 == node3: {node1 == node3}")
-    
-main()
+
+if __name__ == "__main__":
+    main()
